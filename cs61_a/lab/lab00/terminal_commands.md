@@ -2,7 +2,7 @@
 ```
 ls -> List Directory
 ```
-<hr>
+---
 
 ```
 cd -> Change Directory
@@ -11,34 +11,34 @@ cd -> Change Directory
     $ cd ~ (home dir)
 ```
 
-<hr>
+---
 
 ```
 mkdir -> Make Directory
     $ mkdir cs61a
 ```
-<hr>
+---
 
 ```
 mv -> MoVing files/folders
     $ mkdir lab
     $ mv lab00 lab
 ```
-<hr>
+---
 
 ```
 rm -> ReMove files/folders
     $ mkdir tests
     $ rm tests
 ```
-<hr>
+---
 
 ```
 touch -> Create a file
     $ touch test.txt
     $ rm test.txt
 ```
-<hr>
+---
 
 ```
 ls: lists all files in the current directory

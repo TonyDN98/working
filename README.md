@@ -1,7 +1,8 @@
 # Resources
 [Style Code Guild](https://sp19.datastructur.es/materials/guides/style-guide.html)
 
-<hr>
+---
+
 <h1>Resources for DataStructures and Algorithms</h1>
 
 [MIT, always MIT](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
